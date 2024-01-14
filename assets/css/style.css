@@ -118,6 +118,11 @@ main {
   background-color: #e91313;
   height: 500px;
 }
+/* Contact Section */
+#contact-us {
+  background-color: #30e913;
+  height: 500px;
+}
 /* Hero Section */
 #hero-section {
   background: url("../images/hero-img-mobile.webp");
