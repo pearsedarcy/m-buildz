@@ -149,6 +149,19 @@ main {
   font-style: italic;
   font-size: 3.5rem;
 }
+/* Contact form */
+#contact-us-form {
+  height: fit-content;
+  background: url("../images/m-buildz-poster-crop-low-expo.webp");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+}
+
 /* Footer */
 footer {
   display: flex;
