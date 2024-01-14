@@ -32,6 +32,7 @@ body {
     rgba(0, 0, 0, 0) 100%
   );
 }
+/* Navigation Toggle Button */
 #nav-toggle-box {
   display: none;
 }
@@ -42,6 +43,7 @@ body {
 .nav-toggle-box-label {
   padding: 0 1em;
 }
+/* Page Logo */
 .page-logo {
   padding: 0 1em;
 }
