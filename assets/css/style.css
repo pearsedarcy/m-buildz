@@ -141,6 +141,43 @@ main {
   font-style: italic;
   font-size: 3.5rem;
 }
+/* Footer */
+footer {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.7) 100%
+  );
+  z-index: 9999;
+}
+#socials {
+  padding: 0.5em 0;
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+  margin-top: 0.5rem;
+}
+#socials i {
+  font-size: 110%;
+  padding: 5%;
+  color: #fff;
+}
+#socials i:hover {
+  color: #f5f5f5;
+  transform: scale(1.5);
+  transition: all 0.2s ease-in-out;
+}
+#copyright {
+  align-self: center;
+  padding-bottom: 0.5rem;
+  font-size: 0.7rem;
+  font-weight: 100;
+}
 /* Media query: tablets and larger (870px and up) */
 @media screen and (min-width: 870px) {
   /* Stylings for Header */
