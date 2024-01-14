@@ -2,6 +2,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Geologica:wght@400&family=Noto+Sans:wght@500&display=swap");
 /* Header Font */
 @import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Geologica:wght@100&family=Noto+Sans:wght@300&display=swap");
+h1,
+h2,
+h3 {
+  text-transform: uppercase;
+  line-height: 1.5em;
+  letter-spacing: 4px;
+}
 h1 {
   font-family: "Audiowide", sans-serif;
 }
@@ -114,6 +121,26 @@ main {
   background-size: cover;
   aspect-ratio: 9/16;
 }
+#slogan {
+  height: fit-content;
+  margin-top: 100px;
+  margin-left: 2rem;
+  width: min-content;
+  float: right;
+}
+#slogan > h1 {
+  margin-bottom: 1rem;
+  font-size: 3rem;
+  text-align: end;
+  margin-right: 1em;
+  text-shadow: 2px 2px 5px black;
+}
+#slogan > h1 > span {
+  font-family: "Audiowide", sans-serif;
+  color: #fb07ef;
+  font-style: italic;
+  font-size: 3.5rem;
+}
 /* Media query: tablets and larger (870px and up) */
 @media screen and (min-width: 870px) {
   /* Stylings for Header */
@@ -153,5 +180,19 @@ main {
     background-repeat: no-repeat;
     background-size: cover;
     aspect-ratio: 16/9;
+  }
+  #slogan {
+    height: fit-content;
+    margin-top: 250px;
+    margin-left: 3rem;
+    width: auto;
+  }
+  #slogan > h1 {
+    margin-bottom: 1rem;
+    font-size: 4rem;
+    text-shadow: 2px 2px 5px black;
+  }
+  #slogan > h1 > span {
+    font-size: 4.5rem;
   }
 }
