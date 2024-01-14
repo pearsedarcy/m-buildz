@@ -35,6 +35,7 @@ body {
 /* Page Logo */
 .page-logo {
   padding: 0 1em;
+  z-index: 101;
 }
 /* Navigation Toggle Button */
 #nav-toggle-box {
