@@ -113,6 +113,11 @@ main {
   flex-grow: 1;
   background-color: aqua;
 }
+/* Cars Section */
+#cars {
+  background-color: #e91313;
+  height: 500px;
+}
 /* Hero Section */
 #hero-section {
   background: url("../images/hero-img-mobile.webp");
