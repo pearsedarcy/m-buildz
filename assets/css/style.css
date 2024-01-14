@@ -95,6 +95,7 @@ body {
   transition: 0.2s opacity;
   display: block;
 }
+/* Main Section */
 main {
   position: relative;
   display: flex;
@@ -105,6 +106,7 @@ main {
   flex-grow: 1;
   background-color: aqua;
 }
+/* Hero Section */
 #hero-section {
   background: url("../images/hero-img-mobile.webp");
   background-position: center;
@@ -144,6 +146,7 @@ main {
     transform: scale(1.05);
     transition: all 0.2s ease-in-out;
   }
+  /* Hero Section */
   #hero-section {
     background: url("../images/hero-img-1920x900.webp");
     background-position: center;
