@@ -1,5 +1,8 @@
+/* Google fonts import */
+@import url("https://fonts.googleapis.com/css2?family=Geologica:wght@400&family=Noto+Sans:wght@500&display=swap");
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: Geologica, sans-serif;
 }
