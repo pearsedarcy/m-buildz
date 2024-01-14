@@ -32,6 +32,10 @@ body {
     rgba(0, 0, 0, 0) 100%
   );
 }
+/* Page Logo */
+.page-logo {
+  padding: 0 1em;
+}
 /* Navigation Toggle Button */
 #nav-toggle-box {
   display: none;
@@ -41,9 +45,5 @@ body {
   cursor: pointer;
 }
 .nav-toggle-box-label {
-  padding: 0 1em;
-}
-/* Page Logo */
-.page-logo {
   padding: 0 1em;
 }
