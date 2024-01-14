@@ -95,3 +95,36 @@ body {
   transition: 0.2s opacity;
   display: block;
 }
+/* Media query: tablets and larger (870px and up) */
+@media screen and (min-width: 870px) {
+  /* Stylings for Header */
+  .page-header {
+    height: 70px;
+  }
+  /* Menu Styles */
+  #navigation-menu {
+    display: block;
+    background: none;
+    opacity: 1;
+    padding-right: 0;
+    height: 50px;
+  }
+  #menu {
+    margin-top: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    padding: 0.5em 1em;
+  }
+  a:hover {
+    color: grey;
+  }
+  /* Nav toggle */
+  .nav-toggle-box-label {
+    display: none;
+  }
+  #logo:hover {
+    transform: scale(1.05);
+    transition: all 0.2s ease-in-out;
+  }
+}
