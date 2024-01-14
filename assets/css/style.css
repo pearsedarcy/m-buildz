@@ -95,6 +95,17 @@ body {
   transition: 0.2s opacity;
   display: block;
 }
+main {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  margin-top: 70px;
+  width: 100%;
+  gap: 1em;
+  flex-grow: 1;
+  background-color: aqua;
+}
 /* Media query: tablets and larger (870px and up) */
 @media screen and (min-width: 870px) {
   /* Stylings for Header */
