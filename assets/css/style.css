@@ -46,4 +46,29 @@ body {
 }
 .nav-toggle-box-label {
   padding: 0 1em;
+  z-index: 101;
+}
+/* Nav Menu */
+#menu {
+  list-style: none;
+  text-align: right;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  margin-top: 10vh;
+}
+#navigation-menu {
+  position: absolute;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 1));
+  padding-right: 1em;
+  width: 100%;
+  right: 0;
+  top: 0;
+  height: 100vh;
+  opacity: 0;
+  display: none;
+}
+#nav-toggle-box:checked ~ #navigation-menu {
+  opacity: 1;
+  transition: 0.2s opacity;
+  display: block;
 }
