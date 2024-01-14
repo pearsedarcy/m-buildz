@@ -21,7 +21,6 @@ body {
   position: fixed;
   top: 0;
   z-index: 100;
-  padding: 0 1em;
 }
 #nav-toggle-box {
   display: none;
@@ -29,4 +28,10 @@ body {
 .fa-bars {
   font-size: 2rem;
   cursor: pointer;
+}
+.nav-toggle-box-label {
+  padding: 0 1em;
+}
+.page-logo {
+  padding: 0 1em;
 }
