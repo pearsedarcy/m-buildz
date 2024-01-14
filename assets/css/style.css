@@ -1,5 +1,10 @@
 /* Google fonts import */
 @import url("https://fonts.googleapis.com/css2?family=Geologica:wght@400&family=Noto+Sans:wght@500&display=swap");
+/* Header Font */
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Geologica:wght@100&family=Noto+Sans:wght@300&display=swap");
+h1 {
+  font-family: "Audiowide", sans-serif;
+}
 * {
   margin: 0;
   padding: 0;
@@ -68,6 +73,11 @@ body {
   border: 1.5px solid #fff;
   padding: 0.25em 0.5em;
   border-radius: 5px;
+}
+#menu li a {
+  text-decoration: none;
+  font-family: "Audiowide", sans-serif;
+  letter-spacing: 4px;
 }
 #navigation-menu {
   position: absolute;
