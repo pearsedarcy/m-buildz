@@ -100,11 +100,17 @@ main {
   display: flex;
   flex-direction: column;
   height: fit-content;
-  margin-top: 70px;
   width: 100%;
   gap: 1em;
   flex-grow: 1;
   background-color: aqua;
+}
+#hero-section {
+  background: url("../images/hero-img-mobile.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  aspect-ratio: 9/16;
 }
 /* Media query: tablets and larger (870px and up) */
 @media screen and (min-width: 870px) {
@@ -137,5 +143,12 @@ main {
   #logo:hover {
     transform: scale(1.05);
     transition: all 0.2s ease-in-out;
+  }
+  #hero-section {
+    background: url("../images/hero-img-1920x900.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    aspect-ratio: 16/9;
   }
 }
