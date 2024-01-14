@@ -23,3 +23,10 @@ body {
   z-index: 100;
   padding: 0 1em;
 }
+#nav-toggle-box {
+  display: none;
+}
+.fa-bars {
+  font-size: 2rem;
+  cursor: pointer;
+}
