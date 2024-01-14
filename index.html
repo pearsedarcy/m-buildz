@@ -79,7 +79,43 @@
         <header class="hidden-header">
           <h2>Contact Us</h2>
         </header>
-        <article id="contact-form" class="article-wrapper"></article>
+        <article id="contact-form" class="article-wrapper">
+          <form
+            id="contact-us-form"
+            name="contact-us-form"
+            action="https://formdump.codeinstitute.net"
+            method="post"
+          >
+            <label for="name">Name</label>
+            <input
+              class="text-input"
+              id="name"
+              name="name"
+              type="text"
+              required
+              placeholder="Name"
+            />
+            <label for="email">Email Address</label>
+            <input
+              class="text-input"
+              id="email"
+              name="email"
+              type="text"
+              required
+              placeholder="Email Address"
+            />
+            <label for="question">Question</label>
+            <textarea
+              class="question-input"
+              type="text"
+              id="question"
+              name="question"
+              required
+              placeholder="How can we help you?"
+            ></textarea>
+            <input class="submit" type="submit" value="Send it!" />
+          </form>
+        </article>
         <article id="contact-information" class="article-wrapper"></article>
         <article id="google-map" class="article-wrapper"></article>
       </section>
