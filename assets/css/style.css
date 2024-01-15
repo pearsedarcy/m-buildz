@@ -193,7 +193,7 @@ main {
 #contact-form {
   color: #fff;
   max-width: 500px;
-padding: 1em;
+  padding: 1em;
   align-self: flex-start;
 }
 #contact-form label {
@@ -250,7 +250,7 @@ textarea:hover {
   color: #000;
   cursor: pointer;
 }
- /* Contact Information Section*/
+/* Contact Information Section*/
 .row-1-wrap-address {
   display: flex;
   flex-direction: row;
@@ -259,8 +259,8 @@ textarea:hover {
   align-items: start;
   width: 100%;
   height: fit-content;
-flex: 1 1 auto;
-gap: 1em
+  flex: 1 1 auto;
+  gap: 1em;
 }
 #contact-information {
   display: flex;
@@ -271,7 +271,7 @@ gap: 1em
   padding: 1em;
 }
 #email-and-number {
-  height: 100% ;
+  height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -291,7 +291,7 @@ gap: 1em
 #google-map {
   width: 100%;
   height: 400px;
- margin-bottom: 1em;
+  margin-bottom: 1em;
 }
 /* Footer */
 footer {
@@ -338,56 +338,57 @@ footer {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-  /* Stylings for Header */
-  .page-header {
-    height: 70px;
-  }
-  /* Menu Styles */
-  #navigation-menu {
-    display: block;
-    background: none;
-    opacity: 1;
-    padding-right: 0;
-    height: 50px;
-  }
-  #menu {
-    margin-top: 0;
-    text-align: center;
-    display: flex;
-    flex-direction: row;
-    padding: 0.5em 1em;
-  }
-  a:hover {
-    color: grey;
-  }
-  /* Nav toggle */
-  .nav-toggle-box-label {
-    display: none;
-  }
-  #logo:hover {
-    transform: scale(1.05);
-    transition: all 0.2s ease-in-out;
-  }
-  /* Hero Section */
-  #hero-section {
-    background: url("../images/hero-img-1920x900.webp");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    aspect-ratio: 16/9;
-  }
-  #slogan {
-    height: fit-content;
-    margin-top: 250px;
-    margin-left: 3rem;
-    width: auto;
-  }
-  #slogan > h1 {
-    margin-bottom: 1rem;
-    font-size: 4rem;
-    text-shadow: 2px 2px 5px black;
-  }
-  #slogan > h1 > span {
-    font-size: 4.5rem;
+    /* Stylings for Header */
+    .page-header {
+      height: 70px;
+    }
+    /* Menu Styles */
+    #navigation-menu {
+      display: block;
+      background: none;
+      opacity: 1;
+      padding-right: 0;
+      height: 50px;
+    }
+    #menu {
+      margin-top: 0;
+      text-align: center;
+      display: flex;
+      flex-direction: row;
+      padding: 0.5em 1em;
+    }
+    a:hover {
+      color: grey;
+    }
+    /* Nav toggle */
+    .nav-toggle-box-label {
+      display: none;
+    }
+    #logo:hover {
+      transform: scale(1.05);
+      transition: all 0.2s ease-in-out;
+    }
+    /* Hero Section */
+    #hero-section {
+      background: url("../images/hero-img-1920x900.webp");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      aspect-ratio: 16/9;
+    }
+    #slogan {
+      height: fit-content;
+      margin-top: 250px;
+      margin-left: 3rem;
+      width: auto;
+    }
+    #slogan > h1 {
+      margin-bottom: 1rem;
+      font-size: 4rem;
+      text-shadow: 2px 2px 5px black;
+    }
+    #slogan > h1 > span {
+      font-size: 4.5rem;
+    }
   }
 }
