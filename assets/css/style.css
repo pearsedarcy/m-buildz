@@ -152,11 +152,11 @@ main {
   font-size: 3.5rem;
 }
 /* Contact Section */
-#contact-us-wrapper {
+#contact-us {
   background-color: #30e913;
-  height: 500px;
+  height: fit-content;
 }
-#contact-us-wrapper > header {
+#contact-us > header {
   margin-left: 0.5em;
 }
 /* Contact form */
