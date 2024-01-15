@@ -154,8 +154,23 @@ main {
 /* Cars Section */
 #cars {
   background-color: #e91313;
-  height: 500px;
+  height: fit-content;
   padding-top: 70px;
+}
+#card-wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: start;
+  gap: 1em;
+}
+.card {
+  height: 500px;
+  background-color: #00000093;
+  border-radius: 1em;
+  flex: 1 1 300px;
+  max-width: 360px;
 }
 /* Contact Section */
 .row-1-wrap {
