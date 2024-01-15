@@ -166,8 +166,7 @@ main {
   align-items: center;
   gap: 2em;
   width: 100%;
-  height: fit-content
-  background-color: #e9a913;
+  height: fit-content;
   flex: 1 1 auto;
 }
 /* Contact Form */
