@@ -155,6 +155,7 @@ main {
 #cars {
   height: fit-content;
   padding-top: 70px;
+  margin-top: -150px;
 }
 /* Card Gallery */
 #card-wrapper {
