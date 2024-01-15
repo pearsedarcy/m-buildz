@@ -12,6 +12,7 @@ h6 {
   line-height: 1.5em;
   letter-spacing: 4px;
   font-family: "Audiowide", sans-serif;
+  margin-bottom: 1em;
 }
 * {
   margin: 0;
@@ -121,12 +122,6 @@ main {
   gap: 1em;
   flex-grow: 1;
 }
-/* Cars Section */
-#cars {
-  background-color: #e91313;
-  height: 500px;
-  padding-top: 70px;
-}
 /* Hero Section */
 #hero-section {
   background: url("../images/hero-img-mobile.webp");
@@ -156,7 +151,13 @@ main {
   font-size: 3.5rem;
 }
 
-
+/* Cars Section */
+#cars {
+  background-color: #e91313;
+  height: 500px;
+  padding-top: 70px;
+}
+/* Contact Section */
 .row-1-wrap {
   display: flex;
   flex-direction: row;
@@ -166,54 +167,23 @@ main {
   gap: 2em;
   width: 100%;
   height: fit-content
-background-color: #e9a913;
-flex: 1 1 auto;
-
+  background-color: #e9a913;
+  flex: 1 1 auto;
 }
-h3, h4, h5 {
-  margin-bottom: 1em;
-}
-#opening-hours {
-  display: flex;
-  flex-direction: column;
-  max-width: 300px;
-  justify-content: center;
-  align-items: center;
-}
-
-.row-1-wrap-address {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: start;
-  width: 100%;
-  height: fit-content;
-flex: 1 1 auto;
-gap: 1em
-}
-#email-and-number {
-  height: 100% ;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  gap: 1em;
-}
-#phone {
-  justify-self: end;
-}
-/* Contact Section */
+/* Contact Form */
+/* Contact Us Wrapper */
 #contact-us {
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
   gap: 1em;
   padding-top: 70px;
+  margin-top: -70px;
 }
 #contact-us > header {
   margin-left: 0.5em;
 }
-/* Contact form */
+/* Form */
 #contact-us-form {
   height: fit-content;
   background: url("../images/m-buildz-poster-crop-low-expo.webp");
@@ -221,7 +191,6 @@ gap: 1em
   background-size: contain;
   background-position: top;
 }
-/* Contact Form */
 #contact-form {
   color: #fff;
   max-width: 500px;
@@ -282,6 +251,18 @@ textarea:hover {
   color: #000;
   cursor: pointer;
 }
+ /* Contact Information Section*/
+.row-1-wrap-address {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: start;
+  width: 100%;
+  height: fit-content;
+flex: 1 1 auto;
+gap: 1em
+}
 #contact-information {
   display: flex;
   flex-direction: column;
@@ -290,6 +271,24 @@ textarea:hover {
   flex: 1 1 500px;
   padding: 1em;
 }
+#email-and-number {
+  height: 100% ;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 1em;
+}
+#phone {
+  justify-self: end;
+}
+#opening-hours {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  justify-content: center;
+  align-items: center;
+}
+
 #google-map {
   width: 100%;
   height: 400px;
