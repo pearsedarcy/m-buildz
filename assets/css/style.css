@@ -27,6 +27,10 @@ body {
   align-items: center;
   justify-content: start;
 }
+/* Hidden Content */
+.hidden {
+  display: none;
+}
 /* Page Header */
 .page-header {
   width: 100%;
