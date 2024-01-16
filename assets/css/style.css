@@ -129,6 +129,7 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
   aspect-ratio: 9/16;
+  margin-bottom: -50px;
 }
 #slogan {
   height: fit-content;
@@ -139,7 +140,7 @@ main {
 }
 #slogan > h1 {
   margin-bottom: 1rem;
-  font-size: 3rem;
+  font-size: 2em;
   text-align: end;
   margin-right: 1em;
   text-shadow: 2px 2px 5px black;
@@ -148,7 +149,7 @@ main {
   font-family: "Audiowide", sans-serif;
   color: #fb07ef;
   font-style: italic;
-  font-size: 3.5rem;
+  font-size: 2.5rem;
 }
 
 /* Cars Section */
@@ -247,7 +248,6 @@ main {
   flex-wrap: nowrap;
   gap: 1em;
   padding-top: 70px;
-  margin-top: -70px;
 }
 #contact-us > header {
   margin-left: 0.5em;
