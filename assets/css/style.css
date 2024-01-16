@@ -420,57 +420,57 @@ footer {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    /* Stylings for Header */
-    .page-header {
-      height: 70px;
-    }
-    /* Menu Styles */
-    #navigation-menu {
-      display: block;
-      background: none;
-      opacity: 1;
-      padding-right: 0;
-      height: 50px;
-    }
-    #menu {
-      margin-top: 0;
-      text-align: center;
-      display: flex;
-      flex-direction: row;
-      padding: 0.5em 1em;
-    }
-    a:hover {
-      color: grey;
-    }
-    /* Nav toggle */
-    .nav-toggle-box-label {
-      display: none;
-    }
-    #logo:hover {
-      transform: scale(1.05);
-      transition: all 0.2s ease-in-out;
-    }
-    /* Hero Section */
-    #hero-section {
-      background: url("../images/hero-img-1920x900.webp");
-      background-position: top;
-      background-repeat: no-repeat;
-      background-size: contain;
-      aspect-ratio: 16/9;
-    }
-    #slogan {
-      height: fit-content;
-      margin-top: 250px;
-      margin-left: 3rem;
-      width: auto;
-    }
-    #slogan > h1 {
-      margin-bottom: 1rem;
-      font-size: 4rem;
-      text-shadow: 2px 2px 5px black;
-    }
-    #slogan > h1 > span {
-      font-size: 4.5rem;
-    }
+  }
+  /* Stylings for Header */
+  .site-navigation {
+    height: 70px;
+  }
+  /* Menu Styles */
+  #navigation-menu {
+    display: block;
+    background: none;
+    opacity: 1;
+    padding-right: 0;
+    height: 50px;
+  }
+  #menu {
+    margin-top: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    padding: 0.5em 1em;
+  }
+  a:hover {
+    color: grey;
+  }
+  /* Nav toggle */
+  .nav-toggle-box-label {
+    display: none;
+  }
+  #logo:hover {
+    transform: scale(1.05);
+    transition: all 0.2s ease-in-out;
+  }
+  /* Hero Section */
+  #hero-section {
+    background: url("../images/hero-img-1920x900.webp");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    aspect-ratio: 16/9;
+  }
+  #slogan {
+    height: fit-content;
+    margin-top: 250px;
+    margin-left: 3rem;
+    width: auto;
+  }
+  #slogan > h1 {
+    margin-bottom: 1rem;
+    font-size: 4rem;
+    text-shadow: 2px 2px 5px black;
+  }
+  #slogan > h1 > span {
+    font-size: 4.5rem;
   }
 }
