@@ -434,10 +434,9 @@ footer {
     /* Hero Section */
     #hero-section {
       background: url("../images/hero-img-1920x900.webp");
-      background-position: center;
+      background-position: top;
       background-repeat: no-repeat;
-      background-size: cover;
-      aspect-ratio: 16/9;
+      background-size: contain;
     }
     #slogan {
       height: fit-content;
