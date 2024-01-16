@@ -179,6 +179,12 @@ main {
   border-radius: 1em 1em 0 0;
   background-color: #383838;
 }
+#vw-golf {
+  background: url("../images/cars/vw-golf.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .badges {
   height: fit-content;
   background-color: #00000093;
