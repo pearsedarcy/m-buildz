@@ -167,7 +167,7 @@ main {
   gap: 1em;
 }
 .card {
-  height: 500px;
+  height: fit-content;
   background-color: #00000093;
   border-radius: 1em;
   flex: 1 1 300px;
@@ -195,6 +195,31 @@ main {
   align-items: center;
   gap: 0.5em;
 }
+.car-description p {
+  padding: 0.1em;
+}
+.car-stats-list li {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+.car-information {
+  padding: 0.5em;
+}
+.car-information h4 {
+  margin-bottom: 0.5rem;
+}
+.car-stats-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.5em 1em;
+  justify-content: space-between;
+  gap: 1em 2em;
+  margin-bottom: 0.5em;
+  padding: 0 1em 0 1em;
+}
+
 /* Contact Section */
 .row-1-wrap {
   display: flex;
