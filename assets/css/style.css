@@ -444,6 +444,7 @@ footer {
       background-position: top;
       background-repeat: no-repeat;
       background-size: contain;
+      aspect-ratio: 16/9;
     }
     #slogan {
       height: fit-content;
