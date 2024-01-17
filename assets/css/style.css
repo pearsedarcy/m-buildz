@@ -58,20 +58,29 @@ body {
   );
 }
 /* Page Logo */
-.page-logo {
-  padding: 0 1em;
+.page-logo > a > img {
   z-index: 101;
+  width: 150px;
+  margin: 0.5em;
 }
 /* Navigation Toggle Button */
 #nav-toggle-box {
   display: none;
+}
+.fa-regular,
+.fa-solid {
+  font-size: 1.3rem;
+  margin-right: 0.5em;
+}
+.fa-copyright {
+  font-size: 0.8rem;
+  margin-right: 0;
 }
 .fa-bars {
   font-size: 2rem;
   cursor: pointer;
 }
 .nav-toggle-box-label {
-  padding: 0 1em;
   z-index: 101;
 }
 /* Nav Menu */
@@ -262,7 +271,6 @@ main {
   margin-bottom: 0.5em;
   padding: 0 1em 0 1em;
 }
-
 /* Contact Section */
 .row-1-wrap {
   display: flex;
@@ -393,14 +401,6 @@ textarea:hover {
   align-self: center;
   margin-top: 2em;
 }
-.fa-regular,
-.fa-solid {
-  font-size: 1.3rem;
-  margin-right: 0.5em;
-}
-.fa-copyright {
-  font-size: 0.8rem;
-}
 #row-2-wrap {
   display: flex;
   flex-direction: row;
@@ -467,6 +467,11 @@ footer {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+  }
+  .page-logo > a > img {
+    z-index: 101;
+    width: 200px;
+    margin: 0.5em;
   }
   /* Stylings for Header */
   .site-navigation {
