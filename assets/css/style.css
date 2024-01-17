@@ -398,6 +398,9 @@ textarea:hover {
   font-size: 1.3rem;
   margin-right: 0.5em;
 }
+.fa-copyright {
+  font-size: 0.8rem;
+}
 #row-2-wrap {
   display: flex;
   flex-direction: row;
