@@ -497,4 +497,8 @@ footer {
   #slogan > h1 > span {
     font-size: 4.5rem;
   }
+  #cars {
+    max-width: 1200px;
+    align-self: center;
+  }
 }
