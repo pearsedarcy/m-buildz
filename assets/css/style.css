@@ -198,6 +198,12 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
 }
+#wrx-sti {
+  background: url("../images/cars/subaru-wrx.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .badges {
   height: fit-content;
   background-color: #00000093;
