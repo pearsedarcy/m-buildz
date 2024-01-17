@@ -192,6 +192,12 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
 }
+#subaru-sti {
+  background: url("../images/cars/subaru-sti.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .badges {
   height: fit-content;
   background-color: #00000093;
