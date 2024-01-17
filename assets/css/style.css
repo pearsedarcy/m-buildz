@@ -250,6 +250,7 @@ main {
 }
 .car-information h4 {
   margin-bottom: 0.5rem;
+  letter-spacing: 2px;
 }
 .car-stats-list {
   display: flex;
