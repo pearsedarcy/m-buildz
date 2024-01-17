@@ -452,6 +452,9 @@ footer {
   font-size: 0.7rem;
   font-weight: 100;
 }
+.dash {
+  padding-right: 1em;
+}
 /* Media query: tablets and larger (870px and up) */
 @media screen and (min-width: 870px) {
   body {
