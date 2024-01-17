@@ -204,6 +204,12 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
 }
+#toyota-altezza {
+  background: url("../images/cars/toyota-altezza.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .badges {
   height: fit-content;
   background-color: #00000093;
