@@ -105,4 +105,5 @@ The page header was constructed to blend in with the page as much as possible, t
 
 The page footer displays links to social media accounts and a copyright. The footer scales for use on all screen sizes and the icons have hover interaction for desktop to imply clickability.
 
-[Page-Footer](URL)
+![Page-Footer-Desktop](./assets/docs/images/desktop-footer.png)
+![Page-Footer-Mobile](./assets/docs/images/mobile-footer.png)
