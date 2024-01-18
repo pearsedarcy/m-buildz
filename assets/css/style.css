@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Geologica:wght@400&family=Noto+Sans:wght@500&display=swap");
 /* Header Font */
 @import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Geologica:wght@100&family=Noto+Sans:wght@300&display=swap");
+/* Heading's */
 h1,
 h2,
 h3,
@@ -14,9 +15,11 @@ h6 {
   font-family: "Audiowide", sans-serif;
   margin-bottom: 1em;
 }
+/* Scroll Behavior */
 html {
   scroll-behavior: smooth;
 }
+/* Root */
 * {
   margin: 0;
   padding: 0;
@@ -24,6 +27,7 @@ html {
   font-family: Geologica, sans-serif;
   color: #fff;
 }
+/* Body */
 body {
   background-image: url("../images/mobile-bg.svg");
   background-position: center;
@@ -67,6 +71,7 @@ body {
 #nav-toggle-box {
   display: none;
 }
+/* Font Awesome Icons */
 .fa-regular,
 .fa-solid {
   font-size: 1.3rem;
@@ -80,9 +85,7 @@ body {
   font-size: 2rem;
   cursor: pointer;
 }
-.nav-toggle-box-label {
-  z-index: 101;
-}
+
 /* Nav Menu */
 #menu {
   list-style: none;
@@ -97,6 +100,16 @@ body {
   align-items: end;
   gap: 1em;
 }
+/* Navigation Toggle */
+.nav-toggle-box-label {
+  z-index: 101;
+}
+#nav-toggle-box:checked ~ #navigation-menu {
+  opacity: 1;
+  transition: 0.2s opacity;
+  display: block;
+}
+/* Menu */
 #menu li {
   padding: 1em 0;
   border: 1.5px solid #fff;
@@ -118,11 +131,6 @@ body {
   height: 100vh;
   opacity: 0;
   display: none;
-}
-#nav-toggle-box:checked ~ #navigation-menu {
-  opacity: 1;
-  transition: 0.2s opacity;
-  display: block;
 }
 /* Main Section */
 main {
@@ -163,7 +171,6 @@ main {
   font-style: italic;
   font-size: 2.5rem;
 }
-
 /* Cars Section */
 #cars {
   height: fit-content;
@@ -180,6 +187,7 @@ main {
   align-items: start;
   gap: 1em;
 }
+/* Card Style */
 .card {
   height: fit-content;
   background-color: #00000093;
@@ -193,6 +201,7 @@ main {
   border-radius: 1em 1em 0 0;
   background-color: #383838;
 }
+/* Individual Card Images */
 #vw-golf {
   background: url("../images/cars/vw-golf.webp");
   background-position: center;
@@ -229,6 +238,7 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
 }
+/* Badges */
 .badges {
   height: fit-content;
   background-color: #00000093;
@@ -245,22 +255,7 @@ main {
   align-items: center;
   gap: 0.5em;
 }
-.car-description p {
-  padding: 0.1em;
-}
-.car-stats-list li {
-  display: flex;
-  flex-direction: row;
-  list-style: none;
-  gap: 0em 0.5em;
-}
-.car-information {
-  padding: 0.5em;
-}
-.car-information h4 {
-  margin-bottom: 0.5rem;
-  letter-spacing: 2px;
-}
+/* Car Stats */
 .car-stats-list {
   display: flex;
   flex-direction: row;
@@ -270,6 +265,24 @@ main {
   gap: 1em 2em;
   margin-bottom: 0.5em;
   padding: 0 1em 0 1em;
+}
+.car-stats-list li {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  gap: 0em 0.5em;
+}
+/* Car Description */
+.car-description p {
+  padding: 0.1em;
+}
+/* Car Information Wrapper */
+.car-information {
+  padding: 0.5em;
+}
+.car-information h4 {
+  margin-bottom: 0.5rem;
+  letter-spacing: 2px;
 }
 /* Contact Section */
 .row-1-wrap {
@@ -401,6 +414,9 @@ textarea:hover {
   align-self: center;
   margin-top: 2em;
 }
+.dash {
+  padding-right: 1em;
+}
 #row-2-wrap {
   display: flex;
   flex-direction: row;
@@ -410,6 +426,7 @@ textarea:hover {
   gap: 2em;
   width: 100%;
 }
+/* Google Map */
 iframe {
   width: 100%;
 }
@@ -433,6 +450,7 @@ footer {
   );
   z-index: 9999;
 }
+/* Social Media Links */
 #socials {
   padding: 0.5em 0;
   display: flex;
@@ -450,17 +468,16 @@ footer {
   transform: scale(1.5);
   transition: all 0.2s ease-in-out;
 }
+/* Copyright */
 #copyright {
   align-self: center;
   padding-bottom: 0.5rem;
   font-size: 0.7rem;
   font-weight: 100;
 }
-.dash {
-  padding-right: 1em;
-}
 /* Media query: tablets and larger (870px and up) */
 @media screen and (min-width: 870px) {
+  /* Body */
   body {
     background-image: url("../images/desktop-bg.svg");
     background-position: center;
@@ -468,10 +485,15 @@ footer {
     background-size: cover;
     background-attachment: fixed;
   }
+  /* Page Logo */
   .page-logo > a > img {
     z-index: 101;
     width: 200px;
     margin: 0.5em;
+  }
+  #logo:hover {
+    transform: scale(1.05);
+    transition: all 0.2s ease-in-out;
   }
   /* Stylings for Header */
   .site-navigation {
@@ -499,10 +521,6 @@ footer {
   .nav-toggle-box-label {
     display: none;
   }
-  #logo:hover {
-    transform: scale(1.05);
-    transition: all 0.2s ease-in-out;
-  }
   /* Hero Section */
   #hero-section {
     background: url("../images/hero-img-1920x900.webp");
@@ -525,6 +543,7 @@ footer {
   #slogan > h1 > span {
     font-size: 4.5rem;
   }
+  /* Cars Section */
   #cars {
     max-width: 1200px;
     align-self: center;
