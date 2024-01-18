@@ -1,6 +1,6 @@
 # M-BUILDZ
 
-![README Cover Image](./assets/docs/readme-cover-img.webp)
+![README Cover Image](./assets/docs/images/readme-cover-img.webp)
 
 ## [Link to Live site](https://pearsedarcy.github.io/m-buildz/)
 
@@ -10,7 +10,7 @@
 
 This project was undertaken as my first Personl Project(PP1) for a diploma in Software Delevopment from Code Institute. The project aims to test the students understanding and knowledge of HTML and CSS.
 
-### Background
+### Client Background
 
 M-Buildz is a website built to display the work of Cavan based M-buildz, a workshop specializing in building the finest Drift Cars in Ireland.
 The goal of the website is to showcase some of the products and services M-Buildz provides, and to encourage users to get in contact if they are intertested in purchasing some of the services or products.
