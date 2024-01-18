@@ -159,6 +159,10 @@ body {
   padding: 0.25em 0.5em;
   border-radius: 5px;
 }
+#menu li:hover {
+  border: 1.5px solid #fb07ef;
+  transition: 0.2s border;
+}
 #menu li a {
   text-decoration: none;
   font-family: "Audiowide", sans-serif;
