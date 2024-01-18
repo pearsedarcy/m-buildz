@@ -2,7 +2,7 @@
 
 ![README Cover Image](./assets/docs/readme-cover-img.webp)
 
-[Link to Live site](https://pearsedarcy.github.io/m-buildz/).
+## [Link to Live site](https://pearsedarcy.github.io/m-buildz/)
 
 ## Background
 
