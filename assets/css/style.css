@@ -232,7 +232,7 @@ main {
   flex-wrap: wrap;
   justify-content: center;
   align-items: start;
-  gap: 1em;
+  gap: 2em;
 }
 /* Card Style */
 .card {
@@ -241,6 +241,7 @@ main {
   border-radius: 1em;
   flex: 1 1 300px;
   max-width: 4000px;
+  box-shadow: 0.5em 0.5em 0.5em rgba(5, 5, 5, 0.8);
 }
 .card-image {
   height: 400px;
