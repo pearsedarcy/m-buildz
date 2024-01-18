@@ -212,6 +212,17 @@ main {
   text-align: end;
   margin-right: 1em;
   text-shadow: 2px 2px 5px black;
+  opacity: 0;
+  animation: hero-text-slide 0.9s 1.7s ease-out forwards;
+}
+@keyframes hero-text-slide {
+  from {
+    transform: translateX(-20px);
+  }
+  to {
+    transform: translateX(0px);
+    opacity: 1;
+  }
 }
 #slogan > h1 > span {
   font-family: "Audiowide", sans-serif;
