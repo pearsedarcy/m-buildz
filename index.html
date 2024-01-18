@@ -482,17 +482,18 @@
                 class="text-input"
                 id="name"
                 name="name"
-                type="text"
+                type="name"
                 required
                 placeholder="Name"
                 autocomplete="on"
+                minlength="2"
               />
               <label for="email" class="hidden">Email Address</label>
               <input
                 class="text-input"
                 id="email"
                 name="email"
-                type="text"
+                type="email"
                 required
                 placeholder="Email Address"
                 autocomplete="on"
@@ -504,6 +505,7 @@
                 name="question"
                 required
                 placeholder="How can we help you?"
+                minlength="10"
               ></textarea>
               <input class="submit" type="submit" value="Send it!" />
             </form>
