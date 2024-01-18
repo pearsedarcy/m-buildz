@@ -65,7 +65,6 @@ html {
     opacity: 0;
   }
 }
-
 @keyframes fade-in {
   to {
     opacity: 1;
@@ -245,6 +244,17 @@ main {
   justify-content: center;
   align-items: start;
   gap: 2em;
+  opacity: 0;
+  animation: slide-up 1s 1.9s ease-out forwards;
+}
+@keyframes slide-up {
+  from {
+    transform: translateY(800px);
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
 }
 /* Card Style */
 .card {
