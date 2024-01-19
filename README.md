@@ -71,7 +71,6 @@ M-Buildz has a well-established design language running throughout the history o
 ### Color Choice
 
 Considering my enormous bias on the subject, it was very easy to recognise an opportunity to leverage the recent popularity of the 'Dark Theme' design language for this project. The brand's existing imagery has a prevailing use of five major colors; Dark grey, light grey, purple, pink and white. This palette is ideally suited for use in a dark-themed website and complements each other nicely while having adequate contrast for readability and highlighting important features.
-[Color-Pallette](URL)
 
 ### Fonts
 
