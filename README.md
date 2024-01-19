@@ -181,7 +181,7 @@ Throughout the development of this project I continuously tested the website usi
 
 ### Browser Testing
 
-- I tested the website on a mulitude of browsers to ensure cross browser compatibilty, such as Chrome, FireFox, Safari and Edge.
+- I tested the website on a multitude of browsers to ensure cross-browser compatibility, such as Chrome, Firefox, Safari and Edge.
 
 ### Responsiveness Testing
 
@@ -214,7 +214,7 @@ The project was deployed using GitHub pages. The steps to deploy using GitHub pa
 3. Click 'Pages' in the sidebar navigation.
 4. Click the dropdown under the source heading and select the 'main' branch.
 5. Click 'Save'.
-6. You will recieve a green confirmation banner confirming the site deployment and live link.
+6. You will receive a green confirmation banner confirming the site deployment and live link.
 
 The Live Link to the website is available [here](https://pearsedarcy.github.io/m-buildz/)
 
@@ -259,7 +259,7 @@ The Live Link to the website is available [here](https://pearsedarcy.github.io/m
 
 - **Design**
 
-  - The initial design was concieved in [Figma](https://figma.com).
+  - The initial design was conceived in [Figma](https://figma.com).
 
 - **Icons**
 
