@@ -173,6 +173,10 @@ By using Google Lighthouse throughout the development, many bugs were discovered
 
 2. The accessibility score was also reduced by some elements of aria-labels not matching the text content of the anchor links. This was fixed by ensuring all aria-labels contained the text nested within the anchor links.
 
+#### Unresolved
+
+Without the use of Javascript, I was unable to make the mobile navigation menu close when one of the links are clicked. This leaves the user needing to click the burger menu again to close the menu.
+
 ## Deployment
 
 The site was deployed live using [GitHub Pages](https://pages.github.com/).
