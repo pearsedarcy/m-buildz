@@ -172,3 +172,30 @@ By using Google Lighthouse throughout the development, many bugs were discovered
 1. The table used in the opening hours article did not have table headers "<th>", and was leading to a lower accessibilty score. I remidied this by adding the table headers and then adding a hidden class to not display them.
 
 2. The accessibilty score was also being reduced by some elements aria-labels not matching the text content of the anchor links. This was fixed by ensuring all aria-labels contained the text nested within the anchor links.
+
+## Deployment
+
+The site was deployed live using [GitHub Pages](https://pages.github.com/).
+
+- This was achieved by enabling Pages in the settings of the GitHub Repository.
+- The site was deployed from the Main branch of the repo
+
+The Live Link to the website is available [here](https://pearsedarcy.github.io/m-buildz/)
+
+## Credits
+
+### Media
+
+- The majority of the media, such as the logo, poster and car images were collected from [M-Buildz Instagram account](https://www.instagram.com/m_buildz/).
+
+- The Hero Image was found on Unsplash.com [here](https://unsplash.com/photos/pink-and-black-stock-car-JrlDdrI2J7Q)
+
+- The loading wheel image was found on IStock [here](https://www.istockphoto.com/de/vektor/pkw-radmontage-eine-gegossene-oder-geschmiedete-scheibe-und-ein-reifen-mit-einer-gm1451096233-487852035?phrase=car+rims)
+
+### Content
+
+- I used the [Love Running Walkthrough Project](https://github.com/Code-Institute-Solutions/love-running-v3) from Code Institute as a guideline to building the Header and Footer.
+
+- I referenced StackOverFlow, CodePen and MDN WebDocs throughout building the project to help with better understanding and implementing elements, sections and animations
+  - [This]https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card) MDN Doc was great for the Cards section
+  - [This](https://stackoverflow.com/questions/17296919/how-to-prevent-css3-animation-reset-when-finished) StackOverFlow forum helped me with preventing the animations from looping. -[This](https://codepen.io/AdamCCFC/pen/WvzBKq) CodePen example helped me with the hover grow effect on the social media icons.
