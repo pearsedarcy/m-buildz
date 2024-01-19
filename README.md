@@ -141,7 +141,7 @@ I added a Contact Form, as well as general contact information to the Contact Us
 
 ![Desktop-Contact-Us-Section](./assets/docs/images/desktop-contact-us-section.png)
 ![Mobile-Contact-Us-Section](./assets/docs/images/mobile-contact-us-section.png)
-![Mobile-Contact-Us-Section](./assets/docs/images/desktop-contact-us-section-2.png)
+![Mobile-Contact-Us-Section-2](./assets/docs/images/desktop-contact-us-section-2.png)
 
 ## Testing
 
@@ -194,4 +194,9 @@ The Live Link to the website is available [here](https://pearsedarcy.github.io/m
 
 ### Content
 
-- I used the [Love Running Walkthrough Project](https://github.com/Code-Institute-Solutions/love-running-v3) from
+- I used the [Love Running Walkthrough Project](https://github.com/Code-Institute-Solutions/love-running-v3) from Code Institute as a guideline for building the Header and Footer.
+
+- I referenced StackOverFlow, CodePen and MDN WebDocs throughout building the project to help with better understanding and implementing elements, sections and animations
+  - [This](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card) MDN Doc was great for the Cards section
+  - [This](https://stackoverflow.com/questions/17296919/how-to-prevent-css3-animation-reset-when-finished) StackOverflow forum helped me with preventing the animations from looping.
+  - [This](https://codepen.io/AdamCCFC/pen/WvzBKq) CodePen example helped me with the hover grow effect on the social media icons.
