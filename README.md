@@ -176,6 +176,24 @@ Throughout the development of this project I continuously tested the website usi
 
 ![Jigsaw-CSS-Validator](./assets/docs/tests/jigsaw-css-vallidation.png)
 
+### Links Testing
+
+- I tested all links on the website to ensure they worked correctly.
+- I tested all external links to ensure that they would open in a new tab.
+
+### Form Testing
+
+- I tested the form to confirm that it would not submit without validating the requirements, such as the correct email address structure.
+
+### Browser Testing
+
+- I tested the website on a mulitude of browsers to ensure cross browser compatibilty, such as Chrome, FireFox, Safari and Edge.
+
+### Responsiveness Testing
+
+- Using Chrome Dev tools, I tested the website to ensure that it scaled and squashed correctly in a variety of screen sizes and aspect ratios.
+- I conducted a final test using [Responsinator](http://www.responsinator.com/?url=https%3A%2F%2Fpearsedarcy.github.io%2Fm-buildz%2F) to validate cross device compatibility.
+
 ### Bugs
 
 By using Google Lighthouse throughout the development, many bugs were discovered and squashed.
