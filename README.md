@@ -8,15 +8,26 @@ The website is aimed at users who follow M-Buildz on Instagram to take a deeper 
 
 ## [Link to Live site](https://pearsedarcy.github.io/m-buildz/)
 
-## Background
-
-### Project Background
-
-This project was undertaken as my first Personal Project(PP1) for a diploma in Software development from Code Institute. The project aims to test the student's understanding and knowledge of HTML and CSS.
-
 ## Project Goals
 
 Build an eye-catching, highly performative, entirely responsive website to showcase skills in HTML and CSS. The website should use modern native styling to encourage intuitive use and should display visual confirmation of interactions to the user.
+
+## User Stories
+
+- ### First time user
+
+  - I want to discover the work of M-Buildz.
+  - I want to find the content of the website engaging and interactive
+  - I want to have the opportunity to discover more about the company by finding its social media accounts.
+
+- ### Returning User
+
+  - I want to contact M-Buildz.
+  - I want to find the company's contact information.
+  - I want to see any new projects the company is working on
+
+- ### Frequent User
+  - I want to follow the progress of the company's car builds.
 
 ## Project Scope
 
