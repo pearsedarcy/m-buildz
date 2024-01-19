@@ -142,3 +142,25 @@ I added a Contact Form, as well as general contact information to the Contact Us
 ![Desktop-Contact-Us-Section](./assets/docs/images/desktop-contact-us-section.png)
 ![Mobile-Contact-Us-Section](./assets/docs/images/mobile-contact-us-section.png)
 ![Mobile-Contact-Us-Section](./assets/docs/images/desktop-contact-us-section-2.png)
+
+## Testing
+
+Throughout the development of this project I continuously tested the website using the [W3C HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpearsedarcy.github.io%2Fm-buildz%2F), The [JigSaw CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpearsedarcy.github.io%2Fm-buildz%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en), and [Google Lighthouse](https://developer.chrome.com/docs/lighthouse). This enabled me to make sure that with every section that was added, the website was tested thoroughly for validity and use on all screens. Below are some screen shots of the final testing of the [deployed website](https://pearsedarcy.github.io/m-buildz/)
+
+#### Lighthouse Tests
+
+##### Desktop
+
+![Desktop-Lighthouse-Test](./assets/docs/tests/desktop-lighthouse-test.png)
+
+##### Mobile
+
+![Mobile-Lighthouse-Test](./assets/docs/tests/mobile-lighthouse-test.png)
+
+##### W3C HTML Validator
+
+![W3C-HTML-Validator](./assets/docs/tests/html-validator.png)
+
+##### Jigsaw CSS Validator
+
+![Jigsaw-CSS-Validator](./assets/docs/tests/jigsaw-css-vallidation.png)
