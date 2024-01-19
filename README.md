@@ -237,6 +237,10 @@ The Live Link to the website is available [here](https://pearsedarcy.github.io/m
   - [This](https://stackoverflow.com/questions/17296919/how-to-prevent-css3-animation-reset-when-finished) StackOverflow forum helped me with preventing the animations from looping.
   - [This](https://codepen.io/AdamCCFC/pen/WvzBKq) CodePen example helped me with the hover grow effect on the social media icons.
 
+### Javascript
+
+- The javascript code used in the menu.js file was written by my mentor Antonio Rodriguez.
+
 ### Technologies Used
 
 - **Languages**
