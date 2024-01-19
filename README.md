@@ -241,9 +241,10 @@ The Live Link to the website is available [here](https://pearsedarcy.github.io/m
 ### Technologies Used
 
 - **Languages**
-- HTML
-- CSS
-- Javascript
+
+  - HTML
+  - CSS
+  - Javascript
 
 - **Development**
 
