@@ -148,7 +148,6 @@ I added a Contact Form, as well as general contact information to the Contact Us
 
 ![Desktop-Contact-Us-Section](./assets/docs/images/desktop-contact-us-section.png)
 ![Mobile-Contact-Us-Section](./assets/docs/images/mobile-contact-us-section.png)
-![Mobile-Contact-Us-Section-2](./assets/docs/images/desktop-contact-us-section-2.png)
 
 ## Testing
 
