@@ -127,3 +127,10 @@ I designed the hero section to indicate clearly what the website is about. I use
 
 ![Desktop-Hero-Section](./assets/docs/images/desktop-hero-section.png)
 ![Mobile-Hero-Section](./assets/docs/images/mobile-hero-section.png)
+
+### Cars Section
+
+I used the popular 'Card' format to display the portfolio of car builds on the website. On desktop they are stacked in columnar fashion to maximise screen space. On mobile they are stacked as rows to maxmise readability.
+
+![Desktop-Cars-Section](./assets/docs/images/deskop-cars-section.png)
+![Mobile-Cars-Section](./assets/docs/images/mobile-cars-section.png)
