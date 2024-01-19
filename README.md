@@ -164,3 +164,11 @@ Throughout the development of this project I continuously tested the website usi
 #### Jigsaw CSS Validator
 
 ![Jigsaw-CSS-Validator](./assets/docs/tests/jigsaw-css-vallidation.png)
+
+### Bugs
+
+By using Google Lighthouse throughout the development, many bugs were discovered and squashed.
+
+1. The table used in the opening hours article did not have table headers "<th>", and was leading to a lower accessibilty score. I remidied this by adding the table headers and then adding a hidden class to not display them.
+
+2. The accessibilty score was also being reduced by some elements aria-labels not matching the text content of the anchor links. This was fixed by ensuring all aria-labels contained the text nested within the anchor links.
