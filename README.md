@@ -52,11 +52,7 @@ M-Buildz eventually would like to add an online store to the website. While that
 
 ### Figma Sketches
 
-To design to basic layout and structure of the website I built a basic design concept in Figma, a popular online design service.
-
-#### Why Figma?
-
-Wireframing is exceptionally important in web design. It allows the designer to effectively envision the layout and structure of the website without getting too caught up in the finer details of the content, colours and imagery. Of particular importance for me was to use the wireframe to plan how the sections of the website would scale and shrink with fluid motion. Modern websites need to be prepared to be viewed on screens as small as a smartwatch, to as large as a Billboard. While those considerations might be a stretch for the goals of this project, it is worth keeping in mind while designing the elements to look good on screens from a small mobile phone, to a large PC monitor.
+To design to basic layout and structure of the website I built a basic design concept in [Figma](https://figma.com), a popular online design service.
 
 #### Mobile Page Structure
 
@@ -242,6 +238,27 @@ The Live Link to the website is available [here](https://pearsedarcy.github.io/m
   - [This](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card) MDN Doc was great for the Cards section
   - [This](https://stackoverflow.com/questions/17296919/how-to-prevent-css3-animation-reset-when-finished) StackOverflow forum helped me with preventing the animations from looping.
   - [This](https://codepen.io/AdamCCFC/pen/WvzBKq) CodePen example helped me with the hover grow effect on the social media icons.
+
+### Technologies Used
+
+- **Languages**
+- HTML
+- CSS
+- Javascript
+
+- **Development**
+
+  - The website was built in [VS Code](https://code.visualstudio.com/).
+
+- **Version Control**
+- The project was version controlled using [Git](https://git-scm.com/) and [GitHub](https://github.com).
+
+- **Images**
+
+  - The images for the website were edited and compressed using [GIMP](https://gimp.org)
+
+- **Design**
+  - The initial design was concieved in [Figma](https://figma.com).
 
 #### Special Thanks
 
