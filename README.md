@@ -251,7 +251,8 @@ The Live Link to the website is available [here](https://pearsedarcy.github.io/m
   - The website was built in [VS Code](https://code.visualstudio.com/).
 
 - **Version Control**
-- The project was version controlled using [Git](https://git-scm.com/) and [GitHub](https://github.com).
+
+  - The project was version controlled using [Git](https://git-scm.com/) and [GitHub](https://github.com).
 
 - **Images**
 
