@@ -102,21 +102,21 @@ Here is a breakdown of each of the elements of the website.
 
 ### Page Header
 
-The page header was constructed to blend in with the page as much as possible, to not distract from the page content, whilst ensuring branding recognition and intuitive use. On mobile, a 'Burger Menu' icon was used due to its standardisation across mobile applications. When clicked it reveals a side menu with a list of links to different sections of the page. The desktop implementation makes use of the larger canvas by permanently displaying the menu list, enabling quick navigation between sections.
+The page header was constructed to blend in with the page as much as possible, to not distract from the page content, whilst ensuring branding recognition and intuitive use. On mobile, a 'Burger Menu' icon was used due to its standardisation across mobile applications. When clicked it reveals a side menu with a list of links to different sections of the page. The desktop implementation makes use of the larger canvas by permanently displaying the menu list, enabling the user to quickly navigation between sections.
 
 ![Page-Header-Desktop](./assets/docs/images/desktop-header.png)
 ![Page-Header-Mobile](./assets/docs/images/mobile-header.png)
 
 ### Page Footer
 
-The page footer displays links to social media accounts and a copyright. The footer scales for use on all screen sizes and the icons have hover interaction for desktop to imply clickability.
+The page footer displays links to social media accounts and a copyright. The footer scales for use on all screen sizes and the icons have hover interaction for desktop to imply clickability. This enables the user to discover more about M-Buildz through its social media presence.
 
 ![Page-Footer-Desktop](./assets/docs/images/desktop-footer.png)
 ![Page-Footer-Mobile](./assets/docs/images/mobile-footer.png)
 
 ### Mobile Navigation Menu
 
-The mobile navigation menu is activated by pressing the burger menu icon in the header.
+The mobile navigation menu is activated by pressing the burger menu icon in the header. This allows the user to easily navigate to different sections of the site.
 
 ![Mobile-Navigation-Menu](./assets/docs/images/mobile-navigation-menu.png)
 
@@ -129,21 +129,21 @@ An element I wanted to incorporate into this website was an animated loading scr
 
 ### Hero Section
 
-I designed the hero section to indicate clearly what the website is about. I used [this](https://unsplash.com/photos/pink-and-black-stock-car-JrlDdrI2J7Q) image that I found on Unsplash.com. I then desaturated the image in [GIMP](https://www.gimp.org/) and added an animated text heading over it.
+I designed the hero section to indicate clearly what the website is about. I used [this](https://unsplash.com/photos/pink-and-black-stock-car-JrlDdrI2J7Q) image that I found on Unsplash.com. I then desaturated the image in [GIMP](https://www.gimp.org/) and added an animated text heading over it. This section immediately shows the user what M-Buildz is all about.
 
 ![Desktop-Hero-Section](./assets/docs/images/desktop-hero-section.png)
 ![Mobile-Hero-Section](./assets/docs/images/mobile-hero-section.png)
 
 ### Cars Section
 
-I used the popular 'Card' format to display the portfolio of car builds on the website. On the desktop, they are stacked in columnar fashion to maximise screen space. On mobile, they are stacked as rows to maximise readability.
+I used the popular 'Card' format to display the portfolio of car builds on the website. On the desktop, they are stacked in columnar fashion to maximise screen space. On mobile, they are stacked as rows to maximise readability. This enables the user to look at the cars M-Buildz have built.
 
 ![Desktop-Cars-Section](./assets/docs/images/deskop-cars-section.png)
 ![Mobile-Cars-Section](./assets/docs/images/mobile-cars-section.png)
 
 ### Contact Us Section
 
-I added a Contact Form, as well as general contact information to the Contact Us section to allow and encourage users to Contact M-Buildz if they would like to enquire about some of the builds or collaborate on a new build.
+I added a Contact Form, as well as general contact information to the Contact Us section to allow and encourage users to Contact M-Buildz if they would like to enquire about some of the builds or collaborate on a new build. I also added an embedded Google Map to allow the user to visit M-Buildz.
 
 ![Desktop-Contact-Us-Section](./assets/docs/images/desktop-contact-us-section.png)
 ![Mobile-Contact-Us-Section](./assets/docs/images/mobile-contact-us-section.png)
