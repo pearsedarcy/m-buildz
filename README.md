@@ -258,7 +258,20 @@ The Live Link to the website is available [here](https://pearsedarcy.github.io/m
   - The images for the website were edited and compressed using [GIMP](https://gimp.org)
 
 - **Design**
+
   - The initial design was concieved in [Figma](https://figma.com).
+
+- **Icons**
+
+  - The icons were imported from [Font Awesome](https://fontawesome.com/icons)
+
+- **Fonts**
+
+  - The fonts were imported from [Google Fonts](https://fonts.google.com/)
+
+- **Map**
+
+  - The map was embedded from [Google Maps](maps.google.com)
 
 #### Special Thanks
 
