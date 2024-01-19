@@ -381,7 +381,7 @@ main {
 /* Form */
 #contact-us-form {
   height: fit-content;
-  background: url("../images/m-buildz-poster-crop-low-expo.webp");
+  background: url("../images/m-buildz-poster.webp");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: top;
@@ -593,7 +593,7 @@ footer {
   }
   /* Hero Section */
   #hero-section {
-    background: url("../images/hero-img-1920x900.webp");
+    background: url("../images/hero-img-desktop.webp");
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
