@@ -88,11 +88,11 @@ Two fonts were chosen with great consideration for the project. Google Fonts API
 
 - I chose this font due to its readability and scalability. It is a simple sans serif typeface and has many similarities to popular fonts such as Poppins or Roboto.
 
-#### Iconography
+### Iconography
 
 The automotive industry, much like the web, has a standardised or native set of icons commonly used across brands to represent different elements of the car, such as the infamous engine light. I paired this common iconography with what has become the standard of icon sets in web design i.e. the burger menu, or three horizontal bars to represent a menu. This ensures an intuitive navigation of the website. I used the FontAwesome API for the navigation icons and I used Figma to download the automotive icons.
 
-#### Imagery
+### Imagery
 
 The majority of the images used on the website were provided by M-Buildz themselves, such as those of the cars and poster. The hero-section element was taken from IStock.com.
 
