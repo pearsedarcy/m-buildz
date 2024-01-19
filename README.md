@@ -211,6 +211,17 @@ The site was deployed live using [GitHub Pages](https://pages.github.com/).
 - This was achieved by enabling Pages in the settings of the GitHub Repository.
 - The site was deployed from the Main branch of the repo
 
+## Deployment
+
+The project was deployed using GitHub pages. The steps to deploy using GitHub pages are:
+
+1. Navigate to the [repository](https://github.com/pearsedarcy/m-buildz) on GitHub.com.
+2. Click 'Settings' in the page header.
+3. Click 'Pages' in the sidebar navigation.
+4. Click the dropdown under the source heading and select the 'main' branch.
+5. Click 'Save'.
+6. You will recieve a green confirmation banner confirming the site deployment and live link.
+
 The Live Link to the website is available [here](https://pearsedarcy.github.io/m-buildz/)
 
 ## Credits
