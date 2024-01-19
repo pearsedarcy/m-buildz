@@ -204,3 +204,7 @@ The Live Link to the website is available [here](https://pearsedarcy.github.io/m
   - [This](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card) MDN Doc was great for the Cards section
   - [This](https://stackoverflow.com/questions/17296919/how-to-prevent-css3-animation-reset-when-finished) StackOverflow forum helped me with preventing the animations from looping.
   - [This](https://codepen.io/AdamCCFC/pen/WvzBKq) CodePen example helped me with the hover grow effect on the social media icons.
+
+#### Special Thanks
+
+I would like to give a special thanks to my mentor Antonio Rodriquez who helped me throughout the development of this project.
