@@ -16,7 +16,7 @@ This project was undertaken as my first Personal Project(PP1) for a diploma in S
 
 ## Project Goals
 
-Build an eye-catching, highly performative, entirely responsive website to showcase skills in HTML and CSS, alone, without the use of any Object programming language i.e. JavaScript. The website should use modern native styling to encourage intuitive use and should display visual confirmation of interactions to the user.
+Build an eye-catching, highly performative, entirely responsive website to showcase skills in HTML and CSS. The website should use modern native styling to encourage intuitive use and should display visual confirmation of interactions to the user.
 
 ## Project Scope
 
@@ -173,9 +173,7 @@ By using Google Lighthouse throughout the development, many bugs were discovered
 
 2. The accessibility score was also reduced by some elements of aria-labels not matching the text content of the anchor links. This was fixed by ensuring all aria-labels contained the text nested within the anchor links.
 
-#### Unresolved
-
-Without the use of Javascript, I was unable to make the mobile navigation menu close when one of the links are clicked. This leaves the user needing to click the burger menu again to close the menu.
+3. On mobile, the menu would not close once an anchor link was clicked. To resolve this I added the menu.js file to the project and linked it in the index.html file.
 
 ## Deployment
 
