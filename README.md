@@ -107,3 +107,23 @@ The page footer displays links to social media accounts and a copyright. The foo
 
 ![Page-Footer-Desktop](./assets/docs/images/desktop-footer.png)
 ![Page-Footer-Mobile](./assets/docs/images/mobile-footer.png)
+
+### Mobile Navigation Menu
+
+The mobile navigation menu is activated by pressing the burger menu icon in the header.
+
+![Mobile-Navigation-Menu](./assets/docs/images/mobile-navigation-menu.png)
+
+### Loading Wheel
+
+An element I really wanted to incorperate into this website was an animated loading screen. While it is technically unnessacery as the page loads very quickly, I implemented it for acesthetic reasons, and feel that it adds a sense of quality to the website. I took the image from [IStock](https://www.istockphoto.com/de/vektor/pkw-radmontage-eine-gegossene-oder-geschmiedete-scheibe-und-ein-reifen-mit-einer-gm1451096233-487852035?phrase=car+rims) and simplified it using [GIMP](https://www.gimp.org/). I then added it to the webpage and animated it using a series of CSS animations.
+
+![Desktop-Loading-Wheel](./assets/docs/images/desktop-loading-wheel.png)
+![Mobile-Loading-Wheel](./assets/docs/images/mobile-loading-wheel.png)
+
+### Hero Section
+
+I designed the hero section to indicate clearly what the website is about. I used [this](https://unsplash.com/photos/pink-and-black-stock-car-JrlDdrI2J7Q) image that I found on Unsplash.com. I then desaturated the image in [GIMP](https://www.gimp.org/) and added an animated text heading over it.
+
+![Desktop-Hero-Section](./assets/docs/images/desktop-hero-section.png)
+![Mobile-Hero-Section](./assets/docs/images/mobile-hero-section.png)
