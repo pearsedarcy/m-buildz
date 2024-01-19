@@ -139,5 +139,6 @@ I used the popular 'Card' format to display the portfolio of car builds on the w
 
 I added a Contact Form, as well as general contact information to the Contact Us section to allow and encourage users to Contact M-Buildz if they would like to enquire about some of the builds or colaborate on a new build.
 
-![Desktop-Contatc-Us-Section](./assets/docs/images/desktop-contact-us-section.png)
-![Mobile-Contatc-Us-Section](./assets/docs/images/mobile-contact-us-section.png)
+![Desktop-Contact-Us-Section](./assets/docs/images/desktop-contact-us-section.png)
+![Mobile-Contact-Us-Section](./assets/docs/images/mobile-contact-us-section.png)
+![Mobile-Contact-Us-Section](./assets/docs/images/desktop-contact-us-section-2.png)
