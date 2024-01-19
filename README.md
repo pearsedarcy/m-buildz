@@ -78,15 +78,15 @@ Two fonts were chosen with great consideration for the project. Google Fonts API
 
 #### Headings and Buttons
 
-**Audiowide** This font was chosen due to its reasonable similarity to the font used in the M-Buildz logo. It is thematically matched to the broader vision of the brand identity and has many similarities to fonts used in a wider sense across the motor industry. It was ideal for use in larger pieces of text such as Headings and Buttons, however smaller font sizes in not particularly legible so an alternate font was chosen for paragraphs and smaller font sizes.
+[**Audiowide**](https://fonts.google.com/specimen/Audiowide)
+
+- This font was chosen due to its reasonable similarity to the font used in the M-Buildz logo. It is thematically matched to the broader vision of the brand identity and has many similarities to fonts used in a wider sense across the motor industry. It was ideal for use in larger pieces of text such as Headings and Buttons, however smaller font sizes in not particularly legible so an alternate font was chosen for paragraphs and smaller font sizes.
 
 #### Paragraphs
 
-**Geologicia** I chose this font due to its readability and scalability. It is a simple sans serif typeface and has many similarities to popular fonts such as Poppins or Roboto.
+[**Geologica**](https://fonts.google.com/specimen/Geologica)
 
-#### Logo
-
-M-Buildz already has a logo so I used this.
+- I chose this font due to its readability and scalability. It is a simple sans serif typeface and has many similarities to popular fonts such as Poppins or Roboto.
 
 #### Iconography
 
